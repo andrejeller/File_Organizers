@@ -11,7 +11,7 @@ O que ele faz? Ele pega os metadados presente no .CSV disponibilizado na base e 
 |-- covid-chestray-dataset (pasta com as imagens do canadense)
 |-- imagensOrganizadas (pasta que será gerada pelo script)
 |   |----- (aqui dentro vão aparecer as imagens organizadas)
-|-- IniciandoComOCSV.py (esse é o script)
+|-- COVID19_Images_Organizer.py (esse é o script)
 |-- not_found_files.txt (arquivo que vai guardar imagens presentes no .csv que não existem na paasta)
 
 Durante a copia das imagens, neste momento, é ignorado as imagens CT.
